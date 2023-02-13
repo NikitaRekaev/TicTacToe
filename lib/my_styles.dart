@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'packege:flutter/material.dart';
 
 const TextStyle xoStyle = TextStyle(fontWeight: FontWeight.bold, fontSize: 50, color: Colors.amber);
 
